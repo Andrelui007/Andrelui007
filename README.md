@@ -1,8 +1,9 @@
 ## Hi there 👋
 Eu sou André Luis, sou um programador Front End
 atualmente estou aprendendo e criando projetos 
-com HTML e CSS, iniciando aprendizagem com Javascrpt
-e React.
+com 
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 <!--
 **Andrelui007/Andrelui007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
