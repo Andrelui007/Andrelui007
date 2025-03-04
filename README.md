@@ -17,8 +17,10 @@ Rede Socoal
 
 - <a href="https://www.linkedin.com/in/andreluislimaramos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkendin-logo" /><a/>
 - <a href="https://www.instagram.com/andrelui007?utm_source=qr&igsh=MXNpOWNseXYxZjUxOA/=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagran-logo" ><a/>
+- <a href="https://www.facebook.com/share/18gJym3R9g/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-logo"><a/>
 
 [![Andre stats](https://github-readme-stats.vercel.app/api?username=andrelui007)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelui007)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Andrelui007/Andrelui007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
