@@ -20,6 +20,7 @@ Rede Socoal
 - <a href="https://www.facebook.com/share/18gJym3R9g/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-logo"><a/>
 
 [![Andre stats](https://github-readme-stats.vercel.app/api?username=andrelui007)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelui007)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Andrelui007/Andrelui007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
